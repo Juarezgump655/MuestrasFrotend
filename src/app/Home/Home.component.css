@@ -1,0 +1,32 @@
+.navbar {
+    background-color: transparent !important;
+  }
+  body{
+    background-image: url("src\assets\muestrasmedicas.jpg") ;
+    background-size: cover;
+    color: #FFFFFF;
+    background-color: #00b7ff;
+  }
+  a{
+    font-family: 'Segoe UI Black', Courier, monospace;
+    font-size: 16pt;
+  }
+
+h1{
+  font-family: 'Segoe UI Black ', Courier, monospace;
+  color:white;
+  font-size: 60pt;
+}
+h2{
+  font-family: 'Segoe UI Light Italic', Courier, monospace;
+  color:white;
+  font-size: 25pt;
+}
+
+button{
+  border-color: #00b7ff;
+  font-family: 'Segoe UI Black', Courier, monospace;
+  font-size: 16pt;
+  background-color: #00b7ff;
+  border-radius: 60px
+}
